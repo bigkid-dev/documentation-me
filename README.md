@@ -34,3 +34,145 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+VS COde
+```bash
+export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+```
+
+
+start next js
+
+```bash
+npx create-next-app@latest --ts
+
+```
+
+
+Shadcn-ui
+
+```bash
+npx shadcn-ui@latest init
+
+npx shadcn-ui@latest add button
+
+```
+
+clerk cdn 
+
+```bash
+https://clerk.com/docs/quickstarts/nextjs
+
+npm install @clerk/nextjs
+```
+
+tailwind utils
+```bash
+https://hypercolor.dev/
+
+```
+
+Icons
+```bash
+
+ npm i lucide-react
+```
+
+Neon database
+```bash
+https://neon.tech/
+
+npm install @neondatabase/serverless
+```
+
+ORM : Drizzle ORM
+```Bash
+https://orm.drizzle.team/
+
+npm install drizzle-kit
+npm install drizzle-orm 
+
+npm install pg
+
+tsconfig.json  {"target": "es6"}
+
+[run migrations]
+npx drizzle-kit push:pg
+
+[for the db ui]
+npx drizzle-kit studio
+```
+
+
+[dropzone to upload files]
+```Bash
+npm install react-dropzone
+```
+
+
+[React query to manage querying endpoints]
+```bash
+npm i @tanstack/react-query 
+```
+
+[ axios ]
+```bash
+npm i axios
+
+```
+
+[ api loader ]
+```bash
+npm i react-hot-toast
+```
+
+[pine cone]
+```bash
+npm i @pinecone-database/pinecone
+
+npm i @
+pinecone-database/doc-splitt
+er
+https://sdk.pinecone.io/
+```
+
+[lanchain ai utility library for extracting text from pdf ]
+```bash
+npm i langchain
+[dependency]
+npm i pdf-parse
+```
+
+[Open ai]
+```bash
+npm i openai-edge
+```
+
+[ md5 ]
+```bash
+npm i md5
+npm install @types/md5
+```
+
+
+
+
+
+
+
+
+
+
+
+
+[www.excaldraw.com]
+
+[vsc shortcut]
+```bash
+command + shift + k - do delete line
+shift+ up - duplicaate
+Mac — Command + \ or 2,3,4 split editors
+Mac — Ctrl + J join line
+```
